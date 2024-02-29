@@ -49,7 +49,7 @@ video {
 
 .logo {
     position: relative;
-    font-size: 18px;
+    font-size: 25px;
     color:rgb(231, 221, 221);
     text-decoration: none;
     font-weight: 600;
@@ -79,16 +79,11 @@ video {
 .home-contato{
     max-width: 600px;
 }
-.home-contato h1{
-    position: relative;
-    font-size: 45px;
-    font-weight: 700;
-    line-height: 1.0;
-}
+
 
 .home-contato p {
     position: relative;
-    font-size: 18px;
+    font-size: 20px;
     margin: 20px 0 40px;
 }
 
