@@ -276,3 +276,10 @@ color: white;
     width: 0;
 }
 }
+
+@media(max-width: 526px) {
+    .logo {
+        height: 60px;
+        margin: 10px;
+    }
+}

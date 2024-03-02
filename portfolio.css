@@ -91,6 +91,14 @@ color: white;
     text-align: center;
     margin-left: 60px;
     align-items: center;
+    cursor: pointer;
+    transition: 0.8s;
+    
+}
+
+.card:hover {
+    background-color: transparent;
+    border: 6px solid rgb(19, 240, 248);
 }
 
 .card img {
@@ -121,6 +129,6 @@ color: white;
 
 .card a:hover {
     background-color: transparent;
-    border: 2px solid aliceblue;
+    border: 2px solid rgb(19, 240, 248);;
 }
 
