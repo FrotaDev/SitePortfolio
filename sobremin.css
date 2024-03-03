@@ -142,9 +142,21 @@ color: white;
 .home-sci a:hover::before{
     width: 100%;
 }
+@media(max-width: 390px) {
+    .logo {
+        height: 50px;
+        margin: 05px;
+    }
+    .logo {
+       display: none;
+    }
+    .home-contato p {
+        position: relative;
+        font-size: 20px;
+        margin: 20px 0 40px;
+        display: none;
+    }
+}
 
-@keyframes showRight {
-    100% {
-    width: 0;
-}
-}
+
+
